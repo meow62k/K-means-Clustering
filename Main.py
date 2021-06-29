@@ -1,3 +1,3 @@
-import pandas as pd
-data = pd.read_csv("driver-data.csv", index_col="id")
-data.head()
+
+from numpy import genfromtxt
+my_data = genfromtxt('K-means-Clustering/data/1.csv', delimiter=',')
