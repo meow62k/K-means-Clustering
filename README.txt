@@ -9,6 +9,9 @@ For Each Data-set: Column 1 to column 20 containing features and last column con
 
 Solution: 2 is the most optimal value of clusters using Silhouette Coefficient and Davies–Bouldin index for the given data. 
 
+In Data:
+The 56 datasets provived. 
+
 In Outputs:
 1. Main output file contains the raw data recieved. 
 2. db.csv file contains the Davies-Bouldin Index.
