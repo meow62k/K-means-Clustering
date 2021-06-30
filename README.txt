@@ -6,14 +6,17 @@ Assignment:
 
 For Each Data-set: Column 1 to column 20 containing features and last column contain class information.
 
-
-Solution: 2 is the most optimal value of clusters using Silhouette Coefficient and Davies–Bouldin index for the given data. 
+Code:
+Main.ipynb contains the main code for finding the Silhouette Coefficient and Davies–Bouldin index for the given dataset.
+boxplot.ipynb contains the code for plotting the boxplot and calculating its descriptive statistics. 
 
 In Data:
 The 56 datasets provived. 
 
 In Outputs:
-1. Main output file contains the raw data recieved. 
+1. Main output file contains the raw output data. 
 2. db.csv file contains the Davies-Bouldin Index.
 3. si.csv file contains the Silhouette Coefficient.
-4. Selecting the optimal number of clusters for KMeans clustering.xlsx file contains the boxplots and the descriptive statistics of the boxplot. 
+4. Selecting the optimal number of clusters for KMeans clustering.xlsx file contains the Boxplots and the descriptive statistics of the Boxplot. 
+
+Solution: 2 is the most optimal value of clusters using Silhouette Coefficient and Davies–Bouldin index for the given data. 
