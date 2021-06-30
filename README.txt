@@ -1,4 +1,4 @@
-# K-means-Clustering
+K-means-Clustering
 
 Assignment:
 1. Apply K-Means clustering with K=2,3,4,5,6,7,8,9,10 for all 56 datasets and find the optimal value of clusters using Silhouette Coefficient and Davies–Bouldin index.
