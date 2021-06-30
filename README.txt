@@ -17,6 +17,7 @@ In Outputs:
 1. Main output file contains the raw output data. 
 2. db.csv file contains the Davies-Bouldin Index.
 3. si.csv file contains the Silhouette Coefficient.
-4. Selecting the optimal number of clusters for KMeans clustering.xlsx file contains the Boxplots and the descriptive statistics of the Boxplot. 
+4. Selecting the optimal number of clusters for KMeans clustering.xlsx file contains the Boxplots and the descriptive statistics of the Boxplot.
+The normalized data folder contains the normalized data of Silhouette Coefficient and Davies–Bouldin index.
 
 Solution: 2 is the most optimal value of clusters using Silhouette Coefficient and Davies–Bouldin index for the given data. 
